@@ -1,4 +1,4 @@
-# 📊 Walmart Sales Dashboard (Excel)
+Walmart Sales Dashboard (Excel)
 
 An interactive sales dashboard developed in Microsoft Excel using Power Query, Pivot Tables, Pivot Charts, and Slicers.
 
@@ -6,13 +6,13 @@ An interactive sales dashboard developed in Microsoft Excel using Power Query, P
 
 ---
 
-# 📌 Overview
+Overview
 
 This project analyzes Walmart weekly sales data to provide business insights through an interactive dashboard. The dashboard allows users to explore sales performance by year, month, store, and holiday periods through dynamic filters and visualizations.
 
 ---
 
-# 🎯 Objectives
+Objectives
 
 - Clean and transform raw sales data using Power Query.
 - Create meaningful KPIs for business monitoring.
@@ -21,7 +21,7 @@ This project analyzes Walmart weekly sales data to provide business insights thr
 
 ---
 
-# 🛠️ Tools Used
+Tools Used
 
 - Microsoft Excel
 - Power Query
@@ -33,7 +33,7 @@ This project analyzes Walmart weekly sales data to provide business insights thr
 
 ---
 
-# 📈 Key Performance Indicators
+Key Performance Indicators
 
 - Total Sales
 - Average Weekly Sales
@@ -43,7 +43,7 @@ This project analyzes Walmart weekly sales data to provide business insights thr
 
 ---
 
-# 📊 Dashboard Features
+Dashboard Features
 
 - Annual Sales Trend
 - Monthly Sales Trend
@@ -53,7 +53,7 @@ This project analyzes Walmart weekly sales data to provide business insights thr
 
 ---
 
-# 📂 Dataset
+Dataset
 
 **Source:** Walmart Dataset by Yasser H.
 
@@ -61,7 +61,7 @@ https://www.kaggle.com/datasets/yasserh/walmart-dataset
 
 ---
 
-# 📁 Repository Structure
+Repository Structure
 
 ```
 dashboard/
@@ -78,7 +78,7 @@ README.md
 
 ---
 
-# 👨‍💻 Author
+Author
 
 **Daniel Alejandro Delgado Moreno**
 
